@@ -123,8 +123,9 @@ Status: 200 OK Size: 37 Bytes Time: 11 ms
 Book with ID 80 updated successfully!
 ```
 
-###### 
-> [!NOTE]
-> Here for testing, Postman was utilized to interact with the API. The operations were tested using the endpoints hosted at localhost:/8080/...
+## NOTE
+> For testing purposes, Postman was employed to interact with the API. The operations underwent testing utilizing the endpoints hosted at `localhost:/8080/...`.
+> Snippets of each operation are available for reference at the following link: [Click Here](https://github.com/MunwarAli12/BookStore/tree/main/output%20images).
+
 
 

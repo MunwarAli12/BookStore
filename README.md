@@ -125,6 +125,6 @@ Book with ID 80 updated successfully!
 
 ###### 
 > [!NOTE]
-> Here for testing,Postman was utilized to interact with the API. The operations were tested using the localhost:/8080/... endpoints.
+> Here for testing, Postman was utilized to interact with the API. The operations were tested using the endpoints hosted at localhost:/8080/...
 
 
